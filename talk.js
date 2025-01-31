@@ -1,6 +1,6 @@
 $(function() {
     $('#yes').click(function(event) {
-        modal('我就知道Moon小姐姐知道自己最好看~(^_^)', function() {
+        modal('我就知道🌝Moon小姐姐知道自己最好看~(^_^)', function() {
             $('.page_one').addClass('hide');
             $('.page_two').removeClass('hide');
             // typeWrite();
@@ -14,37 +14,40 @@ $(function() {
 });
 
 function A() {
-    modal('Moon小姐姐无敌好看！', B);
+    modal('🌝Moon小姐姐无敌好看！', B);
 }
 
 function B() {
-    modal('不知道这个有没有新意 ）低头', C);
+    modal('Mg(s)+ZnSO<sub>4</sub>(aq)--->Zn(s)+MgSO<sub>4</sub>，你的镁（美）夺走了我的（锌）心', C);
 }
 
 function C() {
-    modal('不感觉，不存在的', D);
+    modal('请🌝Moon小姐姐欣赏烟花表演！', D);
 }
 
 function D() {
-    modal('这是不可能的，马克思都不同意！！！', E);
+    modal('不感觉，不存在的', E);
 }
 
 function E() {
-    modal('你最好看~', F);
+    modal('这是不可能的，马克思都不同意！！！', F);
 }
 
 function F() {
-    modal('你是我见过最好看的女孩子', G);
+    modal('你最好看~', G);
 }
 
 function G() {
-    modal('我发誓+1008611', H);
+    modal('你是我见过最好看的女孩子', H);
 }
 
 function H() {
-    modal('我想和你环球旅行', I);
+    modal('我发誓+1008611', I);
 }
  function I() {
+    modal('我想和你环球旅行', J)
+}
+function I() {
     modal('每天嘘寒问暖', J)
 }
 function I() {
@@ -54,10 +57,7 @@ function I() {
     modal('会唱歌给你听', J)
 }
 function I() {
-    modal('Moon小姐姐最好看。么么哒！', J)
-}
-function I() {
-    modal('请Moon小姐姐欣赏烟花表演！', J)
+    modal('🌝Moon小姐姐最好看。么么哒！', J)
 }
 
 function J() {
